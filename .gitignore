@@ -1,0 +1,8 @@
+.vs
+x32
+x64
+
+BattleCatsEncrypt/x64
+BattleCatsEncrypt/BattleCatsEncrypt.vcxproj
+BattleCatsEncrypt/BattleCatsEncrypt.vcxproj.filters
+BattleCatsEncrypt/BattleCatsEncrypt.vcxproj.user
